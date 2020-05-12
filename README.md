@@ -50,13 +50,13 @@ Now enjoy the game, jump to make your character jump and crouch to make it crouc
 ### Playing Instructions:
 
 Stay straight with your face towards camera to do nothing.
-()[instructions/Donothing.png]
+[](instructions/Donothing.png)
 Jump High to make the character jump.
-()[instructions/JumpInstruction.png]
+[](instructions/JumpInstruction.png)
 Crouch facing the camera properly to make the character crouch.
-()[instructions/CrouchInstruction.png]
+[](instructions/CrouchInstruction.png)
 Raise abruptly after jumping to make the character jump right after crouch.
-()[instructions/Immediate.png]
+[](instructions/Immediate.png)
 
 ## Project Components
 
