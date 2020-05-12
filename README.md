@@ -59,7 +59,7 @@ Though I am well versed with other Development (App-Dev/ Web-Dev/ Designing) and
 
 ## What it does?
 
-The game is a story about a boy (Here it's me 😛) who is sanetizing entire city and needs to safely reach his home, which is located at the end of the city. Various types of viruses, infected hosts and bats are roaming around the city, which need to be dotched or sanetized without coming in contact with them.
+The game is a story about a boy (Here it's me) who is sanetizing entire city and needs to safely reach his home, which is located at the end of the city. Various types of viruses, infected hosts and bats are roaming around the city, which need to be dotched or sanetized without coming in contact with them.
 
 Here are some of the GamePlay Screenshots:
 
