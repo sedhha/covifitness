@@ -73,13 +73,13 @@ Here are some of the GamePlay Screenshots:
 - For all the land viruses, you need to jump and skip them. On the other hand, for all the air viruses, you need to bend down and let them pass away.
 - With your speed, it takes a fixed amount of time to reach the end of the city where your sanitization process is over, and you could safely keep yourself locked unless the pandemic ends!
 
-![](gameview1.gif)
+![](instructions/gameview1.gif)
 
 ## How I built it?
 
 The whole project is built in Python using OpenCV (cv2) and Pygame Library.
 After finishing my first project (Covid Raccoon), I started working on integrating it with Vision functionality. This entire game is solely built in python with opencv and pygame library. The characters (in the form of png images) are prepared in Microsoft PowerPoint.
-![](gameview2.gif)
+![](instructions/gameview2.gif)
 
 ## Purpose of this Project
 I have created this project mainly because of three reasons:
