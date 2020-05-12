@@ -47,6 +47,17 @@ Once the calibration is complete the following screen pops up:
 
 Now enjoy the game, jump to make your character jump and crouch to make it crouch. Note that currently these controls are calibrated and the other control (like boxing gesture is in test mode).
 
+### Playing Instructions:
+
+Stay straight with your face towards camera to do nothing.
+()[instructions/Donothing.png]
+Jump High to make the character jump.
+()[instructions/JumpInstruction.png]
+Crouch facing the camera properly to make the character crouch.
+()[instructions/CrouchInstruction.png]
+Raise abruptly after jumping to make the character jump right after crouch.
+()[instructions/Immediate.png]
+
 ## Project Components
 
 1. Computer Vision (OpenCV python)
